@@ -24,7 +24,8 @@ Hi! I'm passionate about crafting intelligent solutions by blending Python, mach
 <div align="left">
     <img src="https://skillicons.dev/icons?i=vscode,c,html,css,javascript,java,idea,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=figma,dart,flutter,python,postgresql" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" width="48" height="48" /><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" width="48" height="48" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Logo" width="48" height="48" /><br>
 </div>
 
 <h2 align="left">⚡ Stats</h2>
