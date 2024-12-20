@@ -29,7 +29,7 @@ Hi! I'm passionate about crafting intelligent solutions by blending Python, mach
     <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle Database Logo" width="48" height="48" /><br>
 </div>
 
-<h2 align="left">⚡ Stats</h2>
+<h2 align="left">📊 Stats</h2>
 <br>
 <div align="left" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mazdeus&include_all_commits=false&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
