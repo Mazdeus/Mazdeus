@@ -30,8 +30,10 @@ Hi! I'm passionate about crafting intelligent solutions by blending Python, mach
 </div>
 
 <h2 align="left">📊 Stats</h2>
-<br>
-<div align="left" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mazdeus&include_all_commits=true&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdeus&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<p align="left">
+<a href="https://github.com/Mazdeus">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mazdeus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mazdeus&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
+
